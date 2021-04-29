@@ -16,6 +16,5 @@ Algoritmo sumar
 	
 	Escribir "Resultado al sumar " a '+' b ':';
 	Escribir resultado ;
-	Escribir "Nota final: " resultado;
 	
 FinAlgoritmo
