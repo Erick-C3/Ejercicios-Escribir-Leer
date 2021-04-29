@@ -3,12 +3,19 @@ Algoritmo sumar
 	// ingresados por consola y obtener el resultado
 	
 	Definir a, b, resultado como entero;
-	a = 5;
-	b = 2;
-	resultado = 0;//solamente es el valor inicial
+	a = 0;
+	b = 0;
+	resultado = 0;
 	
-	resultado = a + b; // sume los  valores literales 1 y 2
+	Escribir "Ingrese primer numero";
+	Leer a;
+	Escribir "Ingrese segundo numero";
+	Leer b;
 	
-	Escribir resultado;
+	resultado = a+b;
+	
+	Escribir "Resultado al sumar " a '+' b ':';
+	Escribir resultado ;
+	Escribir "Nota final: " resultado;
 	
 FinAlgoritmo
