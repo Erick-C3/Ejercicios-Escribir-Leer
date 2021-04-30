@@ -1,4 +1,4 @@
-Algoritmo ejercicio_1
+Algoritmo ejercicioUno
 	
 	Definir TIEMPO_TIERRA_TRANSC como entero;
 	TIEMPO_TIERRA_TRANSC = 7;
@@ -9,7 +9,7 @@ Algoritmo ejercicio_1
 	Escribir "Cuantas horas pasaron en el planeta miller?";
 	Leer horasPlanetaMiller;
 	
-	Escribir "Entonces pasaron " horasPlanetaMiller * TIEMPO_TIERRA_TRANSC " años en la tierra..."; 
+	Escribir "Entonces pasaron " horasPlanetaMiller * TIEMPO_TIERRA_TRANSC " aÃ±os en la tierra..."; 
 	
 	
 FinAlgoritmo
