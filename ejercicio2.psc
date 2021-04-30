@@ -1,4 +1,4 @@
-Algoritmo ejercicio_2
+Algoritmo ejercicioDos
 	
 	definir nombreCompleto, email como texto;
 	nombreCompleto = "def nombre completo";
